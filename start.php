@@ -6,8 +6,8 @@
 	 * @package No Profile Icon On Topbar
 	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
 	 * @author Alex Falk, RiverVanRain
-	 * @URL http://weborganizm.org/crewz/p/1983/personal-net
-	 * @copyright (c) weborganiZm 2k13
+	 * @URL http://o.wzm.me/crewz/p/1983/personal-net
+	 * @copyright (c) organiZm 2k13
 	 */
 	 
 function no_profile_icon_init() {
