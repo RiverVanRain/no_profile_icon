@@ -7,8 +7,8 @@
 	<description>
 		Remove Profile Icon from topbar
 	</description>
-	<website>http://weborganizm.org/crewz/p/1983/personal-net</website>
-	<copyright>(c) weborganiZm 2k13</copyright>
+	<website>http://o.wzm.me/crewz/p/1983/personal-net</website>
+	<copyright>(c) organiZm 2k13</copyright>
 	<license>GNU Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
